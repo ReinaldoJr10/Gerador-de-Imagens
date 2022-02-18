@@ -1,0 +1,364 @@
+# depslib dependency file v1.0
+1642211169 source:c:\users\nilça santos\documents\projetos cg\semana 12\gl07.cpp
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"GLutils.h"
+	"VertexUtils.h"
+	"transforms.h"
+	"bezier.h"
+
+1562854190 c:\users\nilça santos\documents\projetos cg\semana 12\libs\glew\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1426360528 c:\users\nilça santos\documents\projetos cg\semana 12\libs\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1426360528 c:\users\nilça santos\documents\projetos cg\semana 12\libs\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426360528 c:\users\nilça santos\documents\projetos cg\semana 12\libs\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1641561688 c:\users\nilça santos\documents\projetos cg\semana 12\glutils.h
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<array>
+	<functional>
+	"vec.h"
+	"matrix.h"
+	"Color.h"
+
+1641589181 c:\users\nilça santos\documents\projetos cg\semana 12\vec.h
+	"matrix.h"
+
+1641589141 c:\users\nilça santos\documents\projetos cg\semana 12\matrix.h
+	<cstdio>
+	<array>
+	<string>
+	<cmath>
+	<vector>
+	<fstream>
+
+1641589364 c:\users\nilça santos\documents\projetos cg\semana 12\color.h
+	<math.h>
+	"vec.h"
+
+1642161525 c:\users\nilça santos\documents\projetos cg\semana 12\vertexutils.h
+	"vec.h"
+	"Color.h"
+
+1642216015 c:\users\nilça santos\documents\projetos cg\semana 12\transforms.h
+	<cmath>
+	"matrix.h"
+	"vec.h"
+
+1641561688 source:c:\users\nilça santos\documents\projetos cg\semana 12\glutils.cpp
+	<GL/glew.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	"GLutils.h"
+	"stb_image.h"
+
+1641561688 c:\users\nilça santos\documents\projetos cg\semana 12\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1562854180 source:c:\users\nilça santos\documents\projetos cg\semana 12\libs\glew\glew.c
+	<GL/glew.h>
+	<GL/osmesa.h>
+	<GL/eglew.h>
+	<GL/wglew.h>
+	<GL/glxew.h>
+	<stddef.h>
+	<dlfcn.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	<AvailabilityMacros.h>
+	<dlfcn.h>
+	<mach-o/dyld.h>
+
+1562854190 c:\users\nilça santos\documents\projetos cg\semana 12\libs\glew\include\gl\eglew.h
+	<sys/types.h>
+	<KHR/khrplatform.h>
+	<EGL/eglplatform.h>
+	<GL/glew.h>
+
+1562854190 c:\users\nilça santos\documents\projetos cg\semana 12\libs\glew\include\gl\wglew.h
+	<windows.h>
+
+1562854190 c:\users\nilça santos\documents\projetos cg\semana 12\libs\glew\include\gl\glxew.h
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xmd.h>
+	<GL/glew.h>
+
+1642161525 c:\users\nilça santos\documents\projetos cg\semana 12\bezier.h
+	"vec.h"
+
+1642224196 source:c:\users\nilça santos\documents\projetos cg\semana 12\figura3.cpp
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"GLutils.h"
+	"VertexUtils.h"
+	"transforms.h"
+	"bezier.h"
+
+1642217459 source:c:\users\nilça santos\documents\projetos cg\semana 12\figura6.cpp
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"GLutils.h"
+	"VertexUtils.h"
+	"transforms.h"
+	"bezier.h"
+
+1642219161 source:c:\users\nilça santos\documents\projetos cg\semana 12\figura5.cpp
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"GLutils.h"
+	"VertexUtils.h"
+	"transforms.h"
+	"bezier.h"
+
+1642220631 source:c:\users\nilça santos\documents\projetos cg\semana 12\figura4.cpp
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"GLutils.h"
+	"VertexUtils.h"
+	"transforms.h"
+	"bezier.h"
+
+1642224831 source:c:\users\nilça santos\documents\projetos cg\semana 12\figura2.cpp
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"GLutils.h"
+	"VertexUtils.h"
+	"transforms.h"
+	"bezier.h"
+
+1642226798 source:c:\users\nilça santos\documents\projetos cg\semana 12\cena.cpp
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"transforms.h"
+	"Color.h"
+	"GLutils.h"
+	"ObjMesh.h"
+
+1642161525 c:\users\nilça santos\documents\projetos cg\semana 12\objmesh.h
+	<vector>
+	<iostream>
+	<sstream>
+	<map>
+	"Primitives.h"
+
+1642225325 c:\users\nilça santos\documents\projetos cg\semana 12\primitives.h
+	<iostream>
+	<array>
+	<vector>
+
+1641561688 source:d:\semana 12\glutils.cpp
+	<GL/glew.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	"GLutils.h"
+	"stb_image.h"
+
+1562854190 d:\semana 12\libs\glew\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1644898544 d:\semana 12\glutils.h
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<array>
+	<functional>
+	<math.h>
+	<cstdio>
+	<cmath>
+	<vector>
+	<cmath>
+
+1644897618 d:\semana 12\vec.h
+	<cstdio>
+	<array>
+	<string>
+	<cmath>
+	<vector>
+	<fstream>
+
+1641589142 d:\semana 12\matrix.h
+	<cstdio>
+	<array>
+	<string>
+	<cmath>
+	<vector>
+	<fstream>
+
+1644897666 d:\semana 12\color.h
+	<math.h>
+	<cstdio>
+	<array>
+	<string>
+	<cmath>
+	<vector>
+	<fstream>
+
+1643978352 d:\semana 12\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1562854180 source:d:\semana 12\libs\glew\glew.c
+	<GL/glew.h>
+	<GL/osmesa.h>
+	<GL/eglew.h>
+	<GL/wglew.h>
+	<GL/glxew.h>
+	<stddef.h>
+	<dlfcn.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+	<AvailabilityMacros.h>
+	<dlfcn.h>
+	<mach-o/dyld.h>
+
+1562854190 d:\semana 12\libs\glew\include\gl\eglew.h
+	<sys/types.h>
+	<KHR/khrplatform.h>
+	<EGL/eglplatform.h>
+	<GL/glew.h>
+
+1562854190 d:\semana 12\libs\glew\include\gl\wglew.h
+	<windows.h>
+
+1562854190 d:\semana 12\libs\glew\include\gl\glxew.h
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xmd.h>
+	<GL/glew.h>
+
+1644816910 source:d:\semana 12\figura3.cpp
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"GLutils.h"
+	"VertexUtils.h"
+	"transforms.h"
+	"svpng.inc"
+	<cmath>
+	<ctime>
+	<math.h>
+	<iostream>
+	<string>
+
+1426360528 d:\semana 12\libs\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1426360528 d:\semana 12\libs\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426360528 d:\semana 12\libs\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1642161526 d:\semana 12\vertexutils.h
+	"vec.h"
+	"Color.h"
+
+1642216016 d:\semana 12\transforms.h
+	<cmath>
+	"matrix.h"
+	"vec.h"
+
+1642161526 d:\semana 12\bezier.h
+	"vec.h"
+
+1641561688 d:\semana 12\stb_image_write.h
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1523953108 d:\semana 12\svpng.inc
+	<stdio.h>
+
+1644901424 source:d:\semana 12\sierpinski.cpp
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"GLutils.h"
+	"svpng.inc"
+	<iostream>
+
+1426360528 d:\semana 12\libs\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1644977282 source:d:\semana 12\main.cpp
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"GLutils.h"
+	"svpng.inc"
+	<iostream>
+
